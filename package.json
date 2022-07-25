@@ -1,0 +1,12 @@
+{
+  "name": "typescript-l-l",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx tsc && node dist/index.js"
+  },
+  "dependencies": {
+    "@types/node": "^18.6.1"
+  }
+}
