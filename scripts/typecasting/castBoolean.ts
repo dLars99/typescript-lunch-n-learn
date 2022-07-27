@@ -1,5 +1,5 @@
 export const castBoolean = () => {
-  const bool = 2;
+  const bool = "true";
 
   const typedBool = bool as unknown as boolean;
 
