@@ -6,5 +6,3 @@ castNumber();
 // castBoolean();
 
 // castString();
-
-genericFunction<string>(5, "golden rings");
