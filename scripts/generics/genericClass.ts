@@ -13,6 +13,10 @@ const numberClass = new GenericClass(2);
 const stringClass = new GenericClass("2");
 const arrayClass = new GenericClass([2]);
 
+numberClass.display(); // 2
+stringClass.display(); // "2"
+arrayClass.display(); // [2]
+
 /**
  * Alternative method
  */
